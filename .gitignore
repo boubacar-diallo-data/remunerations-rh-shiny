@@ -1,0 +1,12 @@
+# Fichiers personnels de RStudio et de la session R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Dossier créé par rsconnect lors du déploiement (propre à chaque compte)
+rsconnect/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
